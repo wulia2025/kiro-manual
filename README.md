@@ -1,6 +1,7 @@
 __激活码使用方法__
 
 [Kiro软件官方下载链接](https://kiro.dev/downloads/)
+
 ![](images/image1.png)
 
 [开源Kiro账号管理工具链接](https://github.com/hj01857655/kiro-account-manager)
