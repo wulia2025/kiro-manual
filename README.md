@@ -3,7 +3,7 @@
 ## 快速导航
 - [1、激活码使用，登录Kiro流程](#heading_0)
 - [2、Kiro处理风控及Too Many报错解决方法](#heading_6)
--   [如何通过开启梯子解决限制](#heading_8)
+-   [如何通过开启魔法解决限制](#heading_8)
 -   [无法选择模型的原因](#heading_11)
 - [Kiro 交流群](#heading_12)
 
@@ -52,7 +52,7 @@
 
 ![](images/image10.png)
 
-### <a id="heading_8"></a>可以通过开启梯子解决，方法如下：
+### <a id="heading_8"></a>可以通过开启魔法解决，方法如下：
 
 #### <a id="heading_9"></a>方法1、打开魔法开启系统代理+全局+TUN虚拟网卡
 
@@ -64,7 +64,7 @@
 
 ![](images/image12.png)
 
-#### <a id="heading_10"></a>方法2、打开梯子启动代理+全局后，在点击网络和Internet设置，弹出系统页面点击代理，确认端口，打开Kiro，点击File — Preferences — Settings — 搜索Proxy — 填写本地IP与端口号（与系统代理页面相同）
+#### <a id="heading_10"></a>方法2、打开魔法启动代理+全局后，在点击网络和Internet设置，弹出系统页面点击代理，确认端口，打开Kiro，点击File — Preferences — Settings — 搜索Proxy — 填写本地IP与端口号（与系统代理页面相同）
 
 ![](images/image13.png)
 
