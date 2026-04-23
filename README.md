@@ -1,12 +1,7 @@
 # 激活码使用方法
 
 ## 快速导航
-- [1、激活码兑换](#heading_0)
-- [2、复制账号](#heading_1)
-- [3、Kiro 登录与授权](#heading_2)
-- [4、输入账号与姓名](#heading_3)
-- [5、接收验证码](#heading_4)
-- [6、设置密码完成注册](#heading_5)
+- [1、激活码使用，登录Kiro流程](#heading_0)
 - [Kiro 处理风控及 Too Many 报错解决方法](#heading_6)
 - [如何通过开启梯子解决限制](#heading_8)
   - [方法 1：开启全局+TUN模式](#heading_9)
