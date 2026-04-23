@@ -2,11 +2,9 @@
 
 ## 快速导航
 - [1、激活码使用，登录Kiro流程](#heading_0)
-- [Kiro 处理风控及 Too Many 报错解决方法](#heading_6)
-- [如何通过开启梯子解决限制](#heading_8)
-  - [方法 1：开启全局+TUN模式](#heading_9)
-  - [方法 2：手动配置 Kiro 代理](#heading_10)
-- [无法选择模型的原因](#heading_11)
+- [2、Kiro处理风控及Too Many报错解决方法](#heading_6)
+-   [如何通过开启梯子解决限制](#heading_8)
+-   [无法选择模型的原因](#heading_11)
 - [Kiro 交流群](#heading_12)
 
 ---
