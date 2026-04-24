@@ -4,10 +4,10 @@
 - [1、激活码使用，登录Kiro流程](#heading_0)
 - [2、Too Many报错解决方法](#heading_6)
 - [3、无法选择模型的原因](#heading_11)
-- [4、Kiro问题沟通群](#heading_12)
+- [4、Kiro问题沟通群](#heading_11)
 
 ---
-
+注意：测试(http://ping0.cc/)
 [Kiro 软件官方下载链接](https://kiro.dev/downloads/)
 
 ### <a id="heading_0"></a>1、[激活码使用地址](http://code.zoutask.com/)输入激活码，点击兑换
