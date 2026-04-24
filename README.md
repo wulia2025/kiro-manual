@@ -7,7 +7,8 @@
 - [4、Kiro问题沟通群](#heading_11)
 
 ---
-注意：[测试](http://ping0.cc/)
+注意：[测试](http://ping0.cc/) 稳定使用先进入测试地址查看IP类型和风险等级，想稳定使用必须（家庭类型、家庭类型、家庭类型）
+
 [Kiro 软件官方下载链接](https://kiro.dev/downloads/)
 
 ### <a id="heading_0"></a>1、[激活码使用地址](http://code.zoutask.com/)输入激活码，点击兑换
