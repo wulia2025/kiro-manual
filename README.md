@@ -7,7 +7,7 @@
 - [4、Kiro问题沟通群](#heading_11)
 
 ---
-注意：测试(http://ping0.cc/)
+注意：[测试](http://ping0.cc/)
 [Kiro 软件官方下载链接](https://kiro.dev/downloads/)
 
 ### <a id="heading_0"></a>1、[激活码使用地址](http://code.zoutask.com/)输入激活码，点击兑换
