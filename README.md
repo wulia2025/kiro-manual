@@ -11,9 +11,6 @@
 
 [Kiro 软件官方下载链接](https://kiro.dev/downloads/)
 
-
-[开源 Kiro 账号管理工具链接](https://github.com/hj01857655/kiro-account-manager)
-
 ### <a id="heading_0"></a>1、[激活码使用地址](http://code.zoutask.com/)输入激活码，点击兑换
 
 ![](images/image2.png)
