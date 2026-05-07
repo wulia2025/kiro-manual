@@ -12,12 +12,7 @@
 [Kiro 软件官方下载链接](https://kiro.dev/downloads/)
 以下下载链接可能会延迟，以发布为准。
 
-平台	架构	文件格式	下载链接
-🪟 Windows	x64	MSI安装包	KiroAccountManager_1.8.5_x64_zh-CN.msi
-🍎 macOS	英特尔（x64）	DMG镜像	KiroAccountManager_1.8.5_x64.dmg
-🍎 macOS	苹果芯片（M1/M2/M3）	DMG镜像	KiroAccountManager_1.8.5_aarch64.dmg
-🐧 Linux	x86_64	AppImage	KiroAccountManager_1.8.5_amd64.AppImage
-🐧 Linux	x86_64	DEB包	KiroAccountManager_1.8.5_amd64.deb
+[Kiro开源无感换号工具](https://github.com/hj01857655/kiro-account-manager/releases)
 
 
 ### <a id="heading_0"></a>1、[激活码使用地址](http://code.zoutask.com/)输入激活码，点击兑换
