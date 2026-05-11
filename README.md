@@ -19,7 +19,7 @@
 
 ![](images/image2.png)
 
-### <a id="heading_1"></a>2、登录成功后，点击账号自动复制账号
+### <a id="heading_1"></a>2、登录成功后，点击账号自动复制账号，下载JSON使用账号管理登录可跳过以下登录步骤
 
 注意：已经登录过浏览器有历史记录的，可点击aws个人中心退出账号
 
@@ -27,23 +27,18 @@
 
 ### <a id="heading_2"></a>3、打开Kiro软件，点击Sign in进行登录，浏览器弹出页面点击Builder ID进行跳转授权页面，点击允许访问
 
-![](images/image4.png)
-
 ![](images/image5.png)
 
-### <a id="heading_3"></a>4、输入复制的账号点击继续，自定义输入姓名，进入下一页
+### <a id="heading_3"></a>4、正常复制账号密码登录，进入下一页
 
 ![](images/image6.png)
 
-### <a id="heading_4"></a>5、接收邮箱验证码，输入至AWS进行验证
+### <a id="heading_4"></a>5、页面提示输入验证码，在去刷新验证码，进行登录
 
 ![](images/image7.png)
 
-### <a id="heading_5"></a>6、自定义设置密码，完成Kiro账号的注册
 
-![](images/image8.png)
 
-![](images/image9.png)
 
 ## <a id="heading_6"></a>Kiro处理风控及too many报错解决方法
 
