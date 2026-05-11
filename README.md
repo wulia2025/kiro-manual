@@ -7,7 +7,7 @@
 
 
 ---
-注意：[测试](http://ping0.cc/) 稳定使用先进入测试地址查看IP类型和风险等级，想稳定使用必须（家庭类型、家庭类型、家庭类型）
+注意：[测试IP质量网站跳转链接](http://ping0.cc/) 稳定使用先进入测试地址查看IP类型和风险等级，想稳定使用必须非国内IP，类型为（家庭类型、家庭类型、家庭类型）
 
 [Kiro 软件官方下载链接](https://kiro.dev/downloads/)
 以下下载链接可能会延迟，以发布为准。
@@ -15,7 +15,7 @@
 [Kiro开源无感换号工具](https://github.com/hj01857655/kiro-account-manager/releases)
 
 
-### <a id="heading_0"></a>1、[激活码使用地址](http://code.zoutask.com/)输入激活码，点击兑换
+### 输入激活码，点击兑换
 
 ![](images/image2.png)
 
